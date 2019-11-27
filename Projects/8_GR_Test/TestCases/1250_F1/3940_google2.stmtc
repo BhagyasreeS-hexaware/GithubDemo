@@ -13,7 +13,7 @@
     "Authentication": null,
     "TestSteps": [
       {
-        "TempId": 155005,
+        "TempId": 155014,
         "StepNumber": 1,
         "ActionId": 27,
         "ComponentId": null,
@@ -36,7 +36,7 @@
         "Modified": null
       },
       {
-        "TempId": 155006,
+        "TempId": 155015,
         "StepNumber": 2,
         "ActionId": 47,
         "ComponentId": null,
@@ -49,6 +49,29 @@
         "Description": null,
         "Locator": null,
         "Value": "3",
+        "Status": "Pending",
+        "UserSays": null,
+        "BotSays": null,
+        "Parameters": [],
+        "Assertions": [],
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      },
+      {
+        "TempId": 155013,
+        "StepNumber": 3,
+        "ActionId": 43,
+        "ComponentId": null,
+        "CustomActionId": null,
+        "StepSectionId": 2,
+        "ObjectDictionaryId": null,
+        "LocatorTypeId": 4,
+        "Screenshot": false,
+        "SkipStep": false,
+        "Description": null,
+        "Locator": "q",
+        "Value": "hexaware",
         "Status": "Pending",
         "UserSays": null,
         "BotSays": null,
